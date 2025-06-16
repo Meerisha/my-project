@@ -7,7 +7,7 @@ This is a simple test agent built with:
 
 ## Features
 - Chat interface for testing the agent
-- Mock responses when OpenAI quota is exceeded
+- Mock responses when OpenAI
 - Environment variable setup for API keys
 
 ## Getting Started
