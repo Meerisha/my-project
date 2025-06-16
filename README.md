@@ -1,3 +1,32 @@
+# My AI Agent Project
+
+This is a simple test agent built with:
+- Next.js and React
+- OpenAI AI SDK
+- Tailwind CSS for styling
+
+## Features
+- Chat interface for testing the agent
+- Mock responses when OpenAI quota is exceeded
+- Environment variable setup for API keys
+
+## Getting Started
+
+```bash
+# Install dependencies
+pnpm install
+
+# Set up environment variables
+# Add your OpenAI API key to .env.local
+
+# Run the development server
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to test your agent!
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
