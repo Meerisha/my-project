@@ -1,65 +1,40 @@
-# My AI Agent Project
+# 🧠 AI Agent Engineering Portfolio — Meri Samakova
 
-This is a simple test agent built with:
-- Next.js and React
-- OpenAI AI SDK
-- Tailwind CSS for styling
+Hi there — I’m Meri, a Master’s in CS grad with a background in aviation and a focus on breaking into AI engineering. This repo documents my step-by-step learning in building AI agents using GPT-4, LangChain, vector databases, and tool integration.
 
-## Features
-- Chat interface for testing the agent
-- Mock responses when OpenAI quota is exceeded
-- Environment variable setup for API keys
+I’m currently focused on developing skills in agent-based AI systems: systems that can reason, plan, and act with autonomy.
 
-## Getting Started
-
-```bash
-# Install dependencies
-pnpm install
-
-# Set up environment variables
-# Add your OpenAI API key to .env.local
-
-# Run the development server
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to test your agent!
+My goal: grow as an AI engineer, build real-world tools, and contribute to the next generation of intelligent assistants..
 
 ---
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 🧠 What I’m Currently Learning
 
-## Getting Started
+I'm focused on becoming a skilled AI Agent Engineer. Here's a breakdown of the topics and tools I'm actively learning and practicing right now:
 
-First, run the development server:
+### 🗓️ Week-by-Week Breakdown
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+#### ✅ Week 1 – Foundations
+- [x] Set up Python + VS Code
+- [x] Understand how GPT-4 API works
+- [x] Build a basic chatbot using OpenAI API
+- [x] Create this GitHub repo to track progress
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### 🔁 Week 2 – Memory & Context
+- [ ] Learn what vector databases are (ChromaDB, FAISS)
+- [ ] Connect my chatbot to vector DB (add memory)
+- [ ] Load PDFs and retrieve answers from them (RAG)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#### 🔨 Week 3 – Tool Use & Agent Behavior
+- [ ] Use LangChain to create an agent
+- [ ] Understand and implement ReAct (reasoning + action)
+- [ ] Add external tools like Google search or calculator
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+#### 🚀 Week 4 – Full Agent System
+- [ ] Build a multi-step assistant with memory + tools
+- [ ] Try CrewAI or AutoGPT-style loop
+- [ ] Deploy my agent on Streamlit (basic UI)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+#### 🌐 Ongoing
+- [ ] Share my projects + notes on GitHub weekly
+- [ ] Write short blog posts explaining what I learn (coming soon!)
