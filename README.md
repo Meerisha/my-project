@@ -1,6 +1,4 @@
-# 🧠 AI Agent Engineering Portfolio — Meri Samakova
-
-Hi there — I’m Meri, a Master’s in CS grad with a background in aviation and a focus on breaking into AI engineering. This repo documents my step-by-step learning in building AI agents using GPT-4, LangChain, vector databases, and tool integration.
+This repo documents my step-by-step learning in building AI agents using GPT-4, LangChain, vector databases, and tool integration.
 
 I’m currently focused on developing skills in agent-based AI systems: systems that can reason, plan, and act with autonomy.
 
