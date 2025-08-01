@@ -1,0 +1,9 @@
+#index.tsx         → /           (homepage)
+  about.tsx         → /about      (about page)
+  contact.tsx       → /contact    (contact form)
+  dashboard.tsx     → /dashboard  (user dashboard)
+  login.tsx         → /login      (auth)
+  signup.tsx        → /signup
+  404.tsx           → custom 404 page
+  _app.tsx          → root component (wraps all pages — layout, context providers)
+  _document.tsx     → custom HTML doc (used for <
